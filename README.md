@@ -137,6 +137,11 @@ This project is created for **educational and demonstration purposes**. The stoc
 This project is part of my journey of learning and building with **Python and AI Automation**. While working on AI automation workflows, I am also strengthening my Python programming skills by developing practical projects like this Stock Portfolio Tracker.
 
 This project focuses on applying core Python concepts such as dictionaries, loops, conditional statements, user input, calculations, and file handling in a simple real-world application.
+<img width="1920" height="1080" alt="stocker tracker" src="https://github.com/user-attachments/assets/b64e7bf6-1558-4b4b-a4a3-290e49e9f7e8" />
+
+
+
+https://github.com/user-attachments/assets/0bab37f3-ef33-494f-b732-e3426c8a5de9
 
 
 More advanced portfolio tracking features may be added in future versions.
