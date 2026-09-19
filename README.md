@@ -143,5 +143,10 @@ This project focuses on applying core Python concepts such as dictionaries, loop
 
 https://github.com/user-attachments/assets/0bab37f3-ef33-494f-b732-e3426c8a5de9
 
+##Author
+Muneeb
+
+If you find this project useful then give it a star ⭐ .
+
 
 More advanced portfolio tracking features may be added in future versions.
